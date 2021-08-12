@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orhun</h1>
+<h1 align="center">Hi 👋, I'm Orhun(he/him)</h1>
 <h3 align="center">A jr. Game designer from Istanbul, Turkey</h3>
 <h3 align="center">Graduated from Istanbul Bilgi University's Digital Game Design program</h3>
 
