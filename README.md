@@ -2,7 +2,7 @@
 <h3 align="center">A jr. Game designer from Istanbul, Turkey</h3>
 <h3 align="center">Graduated from Istanbul Bilgi University's Digital Game Design program</h3>
 
-- 👨‍💻 All of my projects are available at [yegenaga.tumblr.com](yegenaga.tumblr.com)
+- 👨‍💻 All of my projects are available at [yegenaga.me](yegenaga.me)
 
 - 📫 How to reach me **orhunyegenaga@gmail.com**
 
